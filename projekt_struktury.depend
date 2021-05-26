@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1622024679 source:d:\c++\projekt_struktury\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<stdlib.h>
+	<algorithm>
+
